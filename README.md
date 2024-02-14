@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rezwan</h1>
-<h3 align="center">A enthusiast web developer from Bangladesh</h3>
+<h3 align="center">An enthusiast web developer from Bangladesh</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rezwan563" alt="rezwan563" /></a> </p>
 
